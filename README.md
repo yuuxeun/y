@@ -10,7 +10,7 @@
 
 ### `0x01 安装插件SwitchyOmega`
 
-安装地址:https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
+[安装地址](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif): https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
 
 ### `0x02 创建情景模式`
 
