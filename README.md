@@ -16,7 +16,7 @@
 
 [![chrome-1](Images/chrome-1.png)](https://github.com/yuuxeun/y/blob/pac/Images/chrome-1.png) [![chrome-2](Images/chrome-2.png)](https://github.com/yuuxeun/y/blob/pac/Images/chrome-2.png)
 
-更新的pac地址: https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
+更新的pac地址: https://raw.githubusercontent.com/yuuxeun/y/pac/whitelist.pac
 
 [![chrome-3](Images/chrome-3.png)](https://github.com/yuuxeun/y/blob/pac/Images/chrome-3.png) [![chrome-4](Images/chrome-4.png)](https://github.com/yuuxeun/y/blob/pac/Images/chrome-4.png)
 
