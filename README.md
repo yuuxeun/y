@@ -14,12 +14,12 @@
 
 ### `0x02 创建情景模式`
 
-[![chrome-1](Images/chrome-1.png)](https://github.com/yuuxeun/y/Images/chrome-1.png) [![chrome-2](Images/chrome-2.png)](https://github.com/yuuxeun/y/Images/chrome-2.png)
+[![chrome-1](Images/chrome-1.png)](https://github.com/yuuxeun/y/pac/Images/chrome-1.png) [![chrome-2](Images/chrome-2.png)](https://github.com/yuuxeun/y/pac/Images/chrome-2.png)
 
 更新的pac地址: https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
 
-[![chrome-3](Images/chrome-3.png)](https://github.com/yuuxeun/y/Images/chrome-3.png) [![chrome-4](Images/chrome-4.png)](https://github.com/yuuxeun/y/Images/chrome-4.png)
+[![chrome-3](Images/chrome-3.png)](https://github.com/yuuxeun/y/pac/Images/chrome-3.png) [![chrome-4](Images/chrome-4.png)](https://github.com/yuuxeun/y/pac/Images/chrome-4.png)
 
 ### `0x03 选择auto white情景模式`
 
-[![chrome-5](Images/chrome-5.png)](https://github.com/yuuxeun/y/Images/chrome-5.png)
+[![chrome-5](Images/chrome-5.png)](https://github.com/yuuxeun/y/pac/Images/chrome-5.png)
