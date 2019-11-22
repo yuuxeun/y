@@ -1,6 +1,6 @@
 # `概述`
 
-原作者是[pexcn]( https://github.com/pexcn )，这个是自己使用的白名单pac文件
+原作者是[pexcn](https://github.com/pexcn)，这个是自己使用的白名单pac文件
 
 # `代理设置方法`
 
@@ -14,7 +14,7 @@
 
 ### `1.2 创建情景模式`
 
-[![chrome-1](Images/chrome-1.png)](https://github.com/yuuxeun/whitelist.pac/blob/master/img/chrome-1.png) [![chrome-2](Image/chrome-2.png)](https://github.com/yuuxeun/whitelist.pac/blob/master/img/chrome-2.png)
+[![chrome-1](Images/chrome-1.png)](https://github.com/yuuxeun/whitelist.pac/blob/master/img/chrome-1.png) [![chrome-2](Images/chrome-2.png)](https://github.com/yuuxeun/whitelist.pac/blob/master/img/chrome-2.png)
 
 更新的pac地址: https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
 
