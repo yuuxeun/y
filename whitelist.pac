@@ -20,7 +20,7 @@ const china_domains = {
   "pintia.cn": 1,
   "yun.baidu.com": 1,
   "speedtest.cn": 1,
-  "speedtest.com": 1,
+  "speedtest.net": 1,
   // Public
   "tmall.com": 1,
   "baidu.com": 1,
