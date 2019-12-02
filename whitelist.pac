@@ -3,7 +3,7 @@
  * Update: 2019-11-22 05:48:46
  */
 
-const proxy = "SOCKS5 127.0.0.1:1080;"; //可改为自己想要的端口
+const proxy = "SOCKS5 127.0.0.1:12345;"; //可改为自己想要的端口
 const direct = "DIRECT;";
 
 const hasOwnProperty = Object.hasOwnProperty;
