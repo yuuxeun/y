@@ -21,7 +21,6 @@ const china_domains = {
   "yun.baidu.com": 1,
   "speedtest.cn": 1,
   "speedtest.net": 1,
-  "qzone.qq.com": 1,
   "user.qzone.qq.com": 1,
   // Public
   "tmall.com": 1,
