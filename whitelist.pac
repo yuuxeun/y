@@ -10018,7 +10018,7 @@ function check_ipv4(host) {
     // }
     // check if the ipv4 format (TODO: ipv6)
     //   http://home.deds.nl/~aeron/regex/
-    var re_ipv4 = / ^\d +\.\d +\.\d +\.\d + $ / g;
+    var re_ipv4 = /^\d+\.\d+\.\d+\.\d+$/g;
     if (re_ipv4.test(host)) {
         // in theory, we can add chnroutes test here.
         // but that is probably too much an overkill.
@@ -10026,7 +10026,7 @@ function check_ipv4(host) {
     }
 }
 function convertAddress(ipchars) {
-    if (ipchars.indexOf(':') != = -1) {
+    if (ipchars.indexOf(':') !== -1) {
         ipchars = ipchars.split(':')[0];
     }
     const bytes = ipchars.split('.');
@@ -10062,7 +10062,7 @@ function isInDomains(domain_dict, host) {
         return true;
     }
     var domains = domain_dict[suffix];
-    if (domains == = undefined) {
+    if (domains === undefined) {
         return false;
     }
     host = host.substring(0, pos1);
@@ -10087,13 +10087,13 @@ function isInDomains(domain_dict, host) {
 function FindProxyForURL(url, host) {
     url = "" + url;
     host = "" + host;
-    if (isPlainHostName(host) == = true) {
+    if (isPlainHostName(host) === true) {
         return direct;
     }
-    if (check_ipv4(host) == = true) {
+    if (check_ipv4(host) === true) {
         return getProxyFromDirectIP(host);
     }
-    if (isInDomains(white_domains, host) == = true) {
+    if (isInDomains(white_domains, host) === true) {
         return nowall_proxy;
     }
     return wall_proxy;
