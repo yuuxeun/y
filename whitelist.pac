@@ -9631,6 +9631,7 @@ var white_domains = {
         "zzrc" : 1
     },
     "org" : {
+        "wikipedia" : 1,
         "pigai" : 1,
         "ziyuanmao" : 1,
         "laomaotao" : 1,
