@@ -2,6 +2,7 @@
  * https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
  * https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/whiteiplist.pac
  * https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac
+ * 2020年1月8日13:35:30
  */
 var wall_proxy = "SOCKS5 127.0.0.1:12345;"; // 改为自己的SSR端口
 var nowall_proxy = "DIRECT;";
@@ -10049,7 +10050,7 @@ function isInDomains(domain_dict, host) {
     var pos1 = host.lastIndexOf('.');
 
     suffix = host.substring(pos1 + 1);
-    if (suffix=="org"||suffix=="cn"||suffix=="nd"||suffix=="localhost"||
+    if (suffix=="cn"||suffix=="nd"||suffix=="localhost"||
 	    suffix=="local"||suffix=="dev"||suffix=="test"||
 	    suffix=="onion"||suffix=="exit"||suffix=="bitnet"||
 	    suffix=="uucp"||suffix=="example"||suffix=="invalid") {
