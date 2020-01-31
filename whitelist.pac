@@ -232,6 +232,7 @@ var white_domains = {
     "cm" : { "4" : 1, "60" : 1, "bearing" : 1, "hebei" : 1, "yinshua" : 1 },
     "co" : { "v2ex" : 1, "meijubie" : 1, "425300" : 1, "banzhu" : 1, "hongfeng" : 1, "huas" : 1, "lixin" : 1, "xiaomayi" : 1, "xiapu" : 1, "ychdzx" : 1 },
     "com" : {
+        "hanjutv" : 1,  // 韩剧TV 避免使用过多服务器流量
         "nowcoder" : 1, // 牛客网
         "iqiyi-yongjiu" : 1,
         "gzspeedtest" : 1,
