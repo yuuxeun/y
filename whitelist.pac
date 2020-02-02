@@ -1,8 +1,8 @@
 /*
+ * 修改时间：2020年2月2日13:49:58
  * https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
  * https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/whiteiplist.pac
  * https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac
- * 修改时间：2020年1月31日23:30:59
  */
 var wall_proxy = "SOCKS5 127.0.0.1:12345;"; // 改为自己的SSR端口
 var nowall_proxy = "DIRECT;";
