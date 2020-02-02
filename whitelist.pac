@@ -8661,6 +8661,7 @@ var white_domains = {
     "edu" : { "snai" : 1, "sxrtvu" : 1 },
     "fm" : { "danmu" : 1, "douban" : 1, "jing" : 1, "lvxing" : 1 },
     "fr" : { "amb-chine" : 1 },
+    "gov" : { "nasa" : 1 },
     "hk" : { "95599" : 1, "ctrip.com" : 1, "hkidc" : 1, "takungpao.com" : 1, "xsren" : 1 },
     "im" : { "shimo" : 1, "cli" : 1, "netease" : 1, "juejin" : 1, "cli" : 1, "iapps" : 1, "iyy" : 1, "yixin" : 1 },
     "info" : { "gmold" : 1, "iyaya" : 1, "lztech" : 1, "meihua" : 1, "williamlong" : 1 },
