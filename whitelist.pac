@@ -1,5 +1,5 @@
 /*
- * 修改时间：2020年2月2日13:49:58
+ * 修改时间：2020年6月28日22:54:32
  * https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
  * https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/whiteiplist.pac
  * https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac
@@ -10099,3 +10099,4 @@ function FindProxyForURL(url, host) {
         return nowall_proxy;
     }
     return wall_proxy
+}
