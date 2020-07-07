@@ -1,5 +1,5 @@
 /*
- * 修改时间：2020年6月29日00:12:57
+ * 修改时间：2020年7月7日17:27:17
  * https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
  * https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/whiteiplist.pac
  * https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac
@@ -10,7 +10,6 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-    "xyz": { "iset": 1 },
     "asia": { "moecloud": 1 },
     "lol": { "bilibili": 1 },
     "app": { "wemp": 1 },
@@ -233,6 +232,7 @@ var white_domains = {
     "cm": { "4": 1, "60": 1, "bearing": 1, "hebei": 1, "yinshua": 1 },
     "co": { "v2ex": 1, "meijubie": 1, "425300": 1, "banzhu": 1, "hongfeng": 1, "huas": 1, "lixin": 1, "xiaomayi": 1, "xiapu": 1, "ychdzx": 1 },
     "com": {
+        "umxyz": 1,
         "cloudflare": 1,
         "namecheap": 1,
         "bnxb": 1,
@@ -10102,4 +10102,6 @@ function FindProxyForURL(url, host) {
         return nowall_proxy;
     }
     return wall_proxy
+}
+return wall_proxy
 }
