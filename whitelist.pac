@@ -10103,5 +10103,3 @@ function FindProxyForURL(url, host) {
     }
     return wall_proxy
 }
-return wall_proxy
-}
