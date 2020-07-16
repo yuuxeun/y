@@ -1,5 +1,5 @@
 /*
- * 修改时间：2020年7月7日17:27:17
+ * 修改时间：2020年7月16日09:30:47
  * https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
  * https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/whiteiplist.pac
  * https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac
@@ -233,7 +233,6 @@ var white_domains = {
     "co": { "v2ex": 1, "meijubie": 1, "425300": 1, "banzhu": 1, "hongfeng": 1, "huas": 1, "lixin": 1, "xiaomayi": 1, "xiapu": 1, "ychdzx": 1 },
     "com": {
         "umxyz": 1,
-        "cloudflare": 1,
         "namecheap": 1,
         "bnxb": 1,
         "hanjutv": 1, // 韩剧TV 避免使用过多服务器流量
