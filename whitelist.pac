@@ -1,5 +1,5 @@
 /*
- * 修改时间：2020年7月16日09:30:47
+ * 修改时间：2020年7月16日09:50:25
  * https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
  * https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/whiteiplist.pac
  * https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac
@@ -234,7 +234,6 @@ var white_domains = {
     "com": {
         "umxyz": 1,
         "namecheap": 1,
-        "bnxb": 1,
         "hanjutv": 1,
         "nowcoder": 1,
         "iqiyi-yongjiu": 1,
