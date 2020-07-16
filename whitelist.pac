@@ -235,8 +235,8 @@ var white_domains = {
         "umxyz": 1,
         "namecheap": 1,
         "bnxb": 1,
-        "hanjutv": 1, // 韩剧TV 避免使用过多服务器流量
-        "nowcoder": 1, // 牛客网
+        "hanjutv": 1,
+        "nowcoder": 1,
         "iqiyi-yongjiu": 1,
         "gzspeedtest": 1,
         "91wii": 1,
