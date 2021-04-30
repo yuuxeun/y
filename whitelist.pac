@@ -9990,6 +9990,7 @@ var white_domains = {
     "tw": { "hexun.com": 1, "taiwandao": 1 },
     "us": { "pangu": 1 },
     "ws": { "0798": 1 },
+    "xyz": { "ysfaka": 1 },
     "xn--fiqs8s": { "": 1 }
 };
 
